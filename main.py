@@ -2,7 +2,7 @@ import pygame, sys, random
 from pygame.locals import *
 
 
-STARTING_STEP_TIME = 140
+STARTING_STEP_TIME = 200
 MIN_STEP_TIME = 100
 STAGE_WIDTH = 10
 STAGE_HEIGHT = 20
